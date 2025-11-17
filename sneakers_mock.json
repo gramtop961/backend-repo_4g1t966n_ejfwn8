@@ -1,0 +1,59 @@
+[
+  {
+    "id": "air-jordan-1-chicago-2015",
+    "brand": "Nike",
+    "model": "Air Jordan 1 Retro High OG",
+    "colorway": "Varsity Red/Black-White",
+    "releaseDate": "2015-05-30",
+    "retailPrice": 160,
+    "media": {
+      "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Chicago-2015-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+    },
+    "sizes": ["7", "8", "9", "10", "11", "12"],
+    "stockx": {
+      "lastSale": 1450,
+      "lowestAsk": 1500,
+      "highestBid": 1400,
+      "volatility": 0.23
+    },
+    "tags": ["trending", "classic"]
+  },
+  {
+    "id": "nike-dunk-low-panda",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "Black/White",
+    "releaseDate": "2021-03-10",
+    "retailPrice": 100,
+    "media": {
+      "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Black-White-2021-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+    },
+    "sizes": ["5", "6", "7", "8", "9", "10", "11"],
+    "stockx": {
+      "lastSale": 150,
+      "lowestAsk": 160,
+      "highestBid": 140,
+      "volatility": 0.12
+    },
+    "tags": ["trending"]
+  },
+  {
+    "id": "yeezy-350-v2-zebra",
+    "brand": "adidas",
+    "model": "Yeezy Boost 350 V2",
+    "colorway": "Zebra",
+    "releaseDate": "2017-02-25",
+    "retailPrice": 220,
+    "media": {
+      "imageUrl": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Zebra-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=compress"
+    },
+    "sizes": ["6", "7", "8", "9", "10"],
+    "stockx": {
+      "lastSale": 300,
+      "lowestAsk": 320,
+      "highestBid": 290,
+      "volatility": 0.18
+    },
+    "tags": ["classic"]
+  }
+]
